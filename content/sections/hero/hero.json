@@ -1,18 +1,18 @@
 {
-  "intro": "Hej",
+  "intro": "SecretSoupのホームページへようこそ",
   "image": {
     "src": "../../images/waving-hand.png",
     "alt": "Waving Hand Emoji"
   },
-  "title": "I'm a Gatsby Starter",
+  "title": "",
   "subtitle": {
-    "prefix": "I do all the setup ",
-    "highlight": "for you",
-    "suffix": "."
+    "prefix": "私たちの",
+    "highlight": "活動について",
+    "suffix": "知ることができます"
   },
-  "description": "A Gatsby Starter Project to easily get started with Portfolio Minimal theme.",
+  "description": "SecretSoupはITにまつわる活動を通して、各々が住まう地域に新たな価値を創る団体です",
   "socialProfiles": {
-    "from": ["LinkedIn", "Medium", "Github", "Mail"],
+    "from": ["Mail","Github"],
     "showIcons": false
   }
 }
