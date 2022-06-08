@@ -1,14 +1,9 @@
 ---
-imageSrc: "../../images/charles-deluvio-DgoyKNgPiFQ-unsplash.jpg"
-imageAlt: "About Gatsby Theme Portfolio Minimal"
+imageSrc: "../../images/soup.jpg"
+imageAlt: "Secret Soup"
 ---
+<b>Secret Soupはプログラミングや既存のWebサービスの使い方を学ぶと共に、それらを駆使して<u>新しい価値を創出すること</u>をゴールに据えて活動を行う集団です。</b>
 
-Portfolio Minimal is a Gatsby Theme that creates outstanding one-pages portfolio within minutes!
-
-It has predefined sections for your bio, skills, projects, and contact details. If you are a writer on Medium, you can integrate your latest articles in a distinct section as well. While building the theme, I tried to keep the setup as simple as possible while keeping everything configurable if you like to.
-
-Using theme composition, you can easily customize the CSS theme to your own preferences - e.g. change colors, fonts, etc.
-
-Last but not least, it has some cool features you can opt-in to: Dark Mode, Splash Screen, Cookie Banner, and more to find out :)
-
-Photo by <a href="https://unsplash.com/@charlesdeluvio?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText" target="_blank" rel="nofollow noopener noreferrer" aria-label="External Link"><u>Charles Deluvio</u></a> on Unsplash
+<h3>Secret Soupのメンバー構成</h3>
+代表を除いたメンバーの多くは高校生です。現在の活動人数としては2〜3名と規模としてはまだまだ規模は小さいですが、できることから一歩ずつ歩みを進めていきます。<br>
+また、有難いことに学校関係者の方にも共感とご理解を頂きつつ活動をしています
