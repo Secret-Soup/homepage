@@ -7,14 +7,31 @@
       "description": "各地のイベントスペースにて、小学生を対象にした入門者向けのプログラミング講座を開催しています。",
       "tags": ["プログラミング", "Javascript"],
       "image": {
-        "src": "../../images/clement-h-95YRwf6CNw8-unsplash.jpg",
+        "src": "../../images/projects/school.jpg",
         "alt": "Quick Setup",
         "linkTo": ""
       },
       "links": [
         {
           "type": "external",
-          "url": "https://www.gatsbyjs.org/docs/mdx/writing-pages/"
+          "url": ""
+        }
+      ]
+    },
+    {
+      "visible": true,
+      "category": "",
+      "title": "テックブログ",
+      "description": "学習した内容をテックブログにて公開しています。このブログはZennというプラットフォーム上にて公開されており、Githubと連携し運用しています",
+      "tags": ["プログラミング", "ブログ","Github"],
+      "image": {
+        "src": "../../images/projects/techblog.jpg",
+        "alt": "Extendable Layout"
+      },
+      "links": [
+        {
+          "type": "external",
+          "url": "https://zenn.dev/secret_soup"
         }
       ]
     },
