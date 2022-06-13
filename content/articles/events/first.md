@@ -3,7 +3,7 @@ title: 'プログラミング講座を初開催いたします！'
 description: 'イベントの詳細です'
 date: '2022-06-13'
 banner:
-    src: '../../images/kelly-sikkema-Hl3LUdyKRic-unsplash.jpg'
+    src: 'event.jpg'
     alt: ''
     caption: ''
 categories:
