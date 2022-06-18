@@ -7,7 +7,7 @@ banner:
     alt: ''
     caption: ''
 categories:
-    - 'イベント'
+    - 'News'
 keywords:
     - 'Secret Soup'
 ---
