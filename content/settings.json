@@ -20,13 +20,13 @@
     "logo": { "text": "Secret Soup🍲" },
     "navigation": {
       "header": [
-        { "label": "About", "url": "/#about" },
-        { "label": "Blog", "url": "/blog" },
-        { "label": "Activity", "url": "/#features" },
-        { "label": "Contact", "url": "/#github" }
+        { "label": "ホーム", "url": "/#about" },
+        { "label": "ブログ", "url": "/blog" },
+        { "label": "活動", "url": "/#features" },
+        { "label": "問い合せ", "url": "/#github" }
       ],
       "ctaButton": {
-        "openNewTab": true,
+        "openNewTab": false,
         "label": "準備中",
         "url": "#"
       },
