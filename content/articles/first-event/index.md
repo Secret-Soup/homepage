@@ -10,6 +10,7 @@ categories:
     - 'News'
 keywords:
     - 'Secret Soup'
+    - 'プログラミング講座'
 ---
 初めまして、SecretSoup代表の杉野と申します。SecretSoupの活動を開始して、初めてのイベントを開催することになりました。
 

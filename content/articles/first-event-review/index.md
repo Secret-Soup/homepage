@@ -1,5 +1,5 @@
 ---
-title: '初回イベントの振り返りとSNS開設のご報告'
+title: '初の体験講座の振り返りとSNS開設のご報告'
 description: 'イベントの詳細です'
 date: '2022-06-25'
 banner:
@@ -10,6 +10,7 @@ categories:
     - 'News'
 keywords:
     - 'Secret Soup'
+    - 'プログラミング講座'
 ---
 こんにちは、SecretSoup代表の杉野です。  
 初めての体験講座を無事終えましたので、簡単な振り返りをさせていただきます。
