@@ -12,7 +12,7 @@
   },
   "description": "SecretSoupはITにまつわる活動を通して、各々が住まう地域に新たな価値を創る団体です",
   "socialProfiles": {
-    "from": ["Mail","Github"],
-    "showIcons": false
+    "from": ["Mail","Github","Twitter"],
+    "showIcons": true
   }
 }
