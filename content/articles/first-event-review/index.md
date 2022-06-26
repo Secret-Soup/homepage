@@ -3,7 +3,7 @@ title: '初回イベントの振り返りとSNS開設のご報告'
 description: 'イベントの詳細です'
 date: '2022-06-25'
 banner:
-    src: ''
+    src: 'review.jpg'
     alt: ''
     caption: ''
 categories:
