@@ -1,9 +1,9 @@
 ---
 title: '初の体験講座の振り返りとSNS開設のご報告'
-description: 'イベントの詳細です'
+description: '今回の反省を次につなげていこうと思います'
 date: '2022-06-25'
 banner:
-    src: 'review.jpg'
+    src: 'review.png'
     alt: ''
     caption: ''
 categories:
