@@ -2,6 +2,7 @@
   "siteMetadata": {
     "language": "en",
     "siteUrl": "https://info.secretsoup.org/",
+    "thumbnail": "../content/images/favicon.png",
     "title": "Secret Soupのホームページ",
     "titleTemplate": "",
     "description": "Secret Soupの活動を詳しく知ることができます",
